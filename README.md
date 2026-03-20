@@ -59,7 +59,7 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 - Integrated AI-generated financial insights (Claude API) to support decision-making  
 - Reduced manual reporting workload by **90%** and improved analysis efficiency  
 
-👉 [View Project](https://github.com/tree12077-maker/qc-cost-analyzer)
+👉 [View Project](https://tree12077-maker.github.io/Performi_KPI_system/cost_analysis.html)
 
 ---
 
