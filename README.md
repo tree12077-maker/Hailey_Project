@@ -25,7 +25,7 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 - Standardized KPI calculation and reporting processes, improving data consistency and governance  
 - Reduced manual reporting workload by **80%** and accelerated decision-making  
 
-👉 [View Project](https://github.com/tree12077-maker/qa-dashboard)
+👉 [View Project](https://tree12077-maker.github.io/Performi_KPI_system/index.html)
 
 ---
 
