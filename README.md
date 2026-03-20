@@ -47,7 +47,7 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 - Calculated IQC / IPQC / OQC manpower requirements dynamically  
 - Improved analysis efficiency by **90%**  
 
-👉 [View Project](https://github.com/tree12077-qc-manpower-calculator)
+👉 [View Project](https://tree12077-maker.github.io/Performi_KPI_system/manpower.html)
 
 ---
 
