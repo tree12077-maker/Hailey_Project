@@ -16,12 +16,14 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 
 ## 🏆 Key Projects
 
-### 🔹 EV Charger QA Dashboard & Automation
-**Tech:** Power BI, SharePoint, Power Automate  
+### 🔹 Dashboard & Automation
+**Tech:** Power BI, SharePoint, Power Automate, Base44 (Low-code Platform) 
 
-- Developed cross-factory QA dashboards (FPYR, KPI automation)  
-- Integrated multi-site data pipelines (Taiwan, China, Vietnam)  
-- Reduced manual reporting workload by **80%**  
+- Built cross-factory QA dashboard system for FPYR and KPI monitoring, enabling real-time performance visibility  
+- Developed automated data pipelines and workflow orchestration across multiple sites (Taiwan, China, Vietnam)  
+- Leveraged Base44 low-code platform to rapidly build and deploy internal QA applications and dashboards  
+- Standardized KPI calculation and reporting processes, improving data consistency and governance  
+- Reduced manual reporting workload by **80%** and accelerated decision-making  
 
 👉 [View Project](https://github.com/tree12077-maker/qa-dashboard)
 
@@ -49,26 +51,27 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 
 ---
 
-### 🔹 AI Vision Car Simulation System
-**Tech:** Python, OpenCV, ESP32  
+### 🔹 Quality Cost Analysis & Reporting Automation System
+**Tech:** Python, OpenPyXL, Plotly, Automation, Claude API  
 
-- Built real-time computer vision simulation system  
-- Integrated AI-generated narration for educational applications  
-- Applied in smart learning and AI demonstration scenarios  
+- Developed an automated quality cost analysis system for budget tracking, MoM trend analysis, and departmental cost breakdown  
+- Built end-to-end data pipeline (Excel → data processing → analysis → report generation → email delivery)  
+- Integrated AI-generated financial insights (Claude API) to support decision-making  
+- Reduced manual reporting workload by **90%** and improved analysis efficiency  
 
-👉 [View Project](https://github.com/tree12077-maker/ai-car)
+👉 [View Project](https://github.com/tree12077-maker/qc-cost-analyzer)
 
 ---
 
 ## 🧠 Skills
 
 **Data & BI**
-- Power BI (Dashboarding, DAX, KPI Systems)
+- Power BI (Dashboarding, DAX)
 - Excel Automation / Data Modeling  
 
 **Automation & Systems**
 - Power Automate (Workflow, Adaptive Cards, System Integration)
-- SharePoint / Microsoft Lists  
+- SharePoint / Microsoft Lists / Planner
 
 **Programming**
 - Python (Data Processing, Automation, OpenCV)
@@ -76,7 +79,7 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 
 **Quality & Manufacturing**
 - IATF 16949 / ISO 9001 / VDA 6.3  
-- FPYR / OQC / IPQC Systems  
+- FPYR / OQC / IPQC / CQS Systems  
 
 ---
 
@@ -86,16 +89,6 @@ Skilled in building data-driven QA systems using Power BI, SharePoint, Power Aut
 - 📉 Improved cross-site data visibility and accuracy  
 - ⚡ Accelerated complaint handling and risk identification  
 - 🤖 Enabled digital transformation in traditional QA processes  
-
----
-
-## 🚀 Vision
-
-Building next-generation **AI-powered Quality Systems**  
-
-→ From Reactive QA  
-→ To Predictive QA  
-→ Toward Autonomous QA  
 
 ---
 
